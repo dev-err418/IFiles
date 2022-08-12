@@ -233,7 +233,7 @@ const Modal = (progress, cid) => {
             }}
           >
             <Text style={{ marginBottom: "20px", fontWeight: "600" }}>
-              That your link !
+              That's your link !
             </Text>
             <Text style={{ marginBottom: "10px" }}>
               Share it with whoever you want.
