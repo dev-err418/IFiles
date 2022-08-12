@@ -1,6 +1,10 @@
 # IPFS-file-sharing
 
-This simple project is a web app. With it you will be able to upload yout files to IPFS and share your link after it.
+This simple project is a web app. With it you will be able to upload yout files to IPFS and then share a link for others to access your files.
+
+As simple as that :
+
+
 
 Limitation : ~300MB max file upload...
 
