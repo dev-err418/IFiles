@@ -8,7 +8,7 @@ As simple as that :
 
 Limitation : ~300MB max file upload...
 
-Try link : https://b63d103c.ipfs-file-sharing.pages.dev
+Try link : https://ipfs-file-sharing.pages.dev/
 
 Hope you'll like it, enjoy ! 
 
